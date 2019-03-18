@@ -5,7 +5,7 @@
         }
     },
     "name": "lsclh/hot-reload",
-    "description": "复制e自动重载功能",
+    "description": "复制easyswoole3.x自动重载功能",
     "type": "library",
     "authors": [
         {
