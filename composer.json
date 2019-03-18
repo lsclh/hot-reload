@@ -1,0 +1,18 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Lsclh\\HotReload\\": "src/"
+        }
+    },
+    "name": "lsclh/hot-reload",
+    "description": "复制e自动重载功能",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cheng",
+            "email": "1019759208@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
